@@ -158,6 +158,12 @@ coupled-pendulums
 ├── app.py
 ├── README.md
 ├── requirements.txt
+├── .gitignore
+│
+├── assets
+│   └── screenshots
+│       ├── damping_animation.png
+│       └── damping_graphs.png
 │
 ├── src
 │   ├── __init__.py
