@@ -181,7 +181,7 @@ coupled-pendulums
 Клонировать проект:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/GU-UK/coupled-pendulums.git
 ```
 
 Перейти в папку:
