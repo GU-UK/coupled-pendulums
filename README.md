@@ -165,14 +165,12 @@ coupled-pendulums
 │       ├── damping_animation.png
 │       └── damping_graphs.png
 │
-├── src
-│   ├── __init__.py
-│   ├── physics.py
-│   ├── solver.py
-│   ├── analysis.py
-│   └── visualization.py
-│
-└── report
+└── src
+    ├── __init__.py
+    ├── physics.py
+    ├── solver.py
+    ├── analysis.py
+    └── visualization.py
 ```
 
 ---
